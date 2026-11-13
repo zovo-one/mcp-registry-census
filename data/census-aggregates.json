@@ -1,0 +1,45 @@
+{
+ "title": "MCP Registry census aggregates",
+ "generated_at": "2026-11-13T13:11:15.348911Z",
+ "source": "https://registry.modelcontextprotocol.io/v0/servers",
+ "rows_scanned": 250478,
+ "distinct_servers": 63364,
+ "versions_per_server": 3.95,
+ "namespace_concentration": {
+  "io.github.sadri-dridi": 2366,
+  "io.github.mrfentmen": 2055,
+  "io.github.pipeworx-io": 1915,
+  "io.github.mcp-dir": 1115,
+  "io.usefulapi": 954,
+  "io.github.CloudCorpRecords": 430,
+  "io.github.theluckystrike": 409,
+  "dev.cotlet": 401,
+  "io.github.Evozim": 375,
+  "io.github.CSOAI-ORG": 354,
+  "ai.smithery": 213,
+  "io.github.cyanheads": 166,
+  "io.github.jmshinhwa": 155,
+  "io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC": 143,
+  "com.a2awire": 135
+ },
+ "github_publishers": 17240,
+ "github_servers": 35590,
+ "transport": {
+  "remote_only": 38023,
+  "package_only": 19929,
+  "both": 4709,
+  "neither": 703
+ },
+ "servers_without_description": 0,
+ "category_mentions": {
+  "other": 20594,
+  "dev/code": 15953,
+  "cloud/infra": 11807,
+  "search/web": 11549,
+  "finance/invoicing": 5781,
+  "documents/pdf": 4971,
+  "ai/media": 4835,
+  "comms": 3955,
+  "data/db": 3742
+ }
+}
